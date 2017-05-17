@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Test'){
             steps {
-			build 'MavenNew2'
+			build 'MavenNew21'
             }
         }
     }
